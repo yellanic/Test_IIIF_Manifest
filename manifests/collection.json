@@ -1,0 +1,15 @@
+{
+  "id" : "https://yellanic.github.io/Test_IIIF_Manifest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in yellanic/Test_IIIF_Manifest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://yellanic.github.io/Test_IIIF_Manifest/manifests/testmanifest.json",
+    "label" : {
+      "en" : [ "Test IIIF Manifest" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
